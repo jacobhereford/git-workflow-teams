@@ -236,3 +236,4 @@ Make commits regularly, in case you need to undo a mistake!
 
 Source code distributed under the MIT license. Text and other assets copyright
 General Assembly, Inc., all rights reserved.
+# grouplab
